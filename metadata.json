@@ -1,0 +1,5 @@
+{
+  "name": "Copy of NewsFlow AI",
+  "description": "Automated breaking news video generator using Gemini, Veo, and TTS. Fetches real-time US news, generates scripts, professional voiceovers, and high-quality video B-roll for YouTube publication.",
+  "requestFramePermissions": []
+}

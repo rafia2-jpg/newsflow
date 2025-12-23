@@ -1,0 +1,40 @@
+{
+  "name": "NewsFlow AI",
+  "short_name": "NewsFlow",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "description": "Automated breaking news video generator powered by Google Flow.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2965/2965879.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2965/2965879.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1920&auto=format&fit=crop",
+      "sizes": "1920x1080",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "NewsFlow Dashboard"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1586339949916-3e9457bef6d3?q=80&w=1080&auto=format&fit=crop",
+      "sizes": "1080x1920",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Mobile View"
+    }
+  ]
+}
